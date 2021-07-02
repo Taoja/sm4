@@ -1,6 +1,6 @@
 package sm4
 
-import "sm4/padding"
+import "github.com/Taoja/sm4/padding"
 
 // SM4Context 结构体
 // context sm4实例
